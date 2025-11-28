@@ -8,6 +8,10 @@ def mul(a,b):
    print(a*b)
 def div(a,b):
    print(a//b)
+def pow(a,b):
+   print(a**b)
+
+pow(10,2)
 
 add(10,30)
 sub(30,10)
